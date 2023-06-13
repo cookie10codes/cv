@@ -88,3 +88,11 @@ You can find a list of my current stack underneath. Feel free to ask more inform
 - Frontend build systems (vite / webpack)
 - Sass / PostCSS / Tailwind
 - Translating designs from Adobe XD / Figma / Sketch to web
+
+## Languages
+_Dutch_: Native
+_English_: Fluently
+_French_: Not too good 😅
+
+## Work situation
+Preferable working fully remote at any time zone. If it's doable commuting from Bruges by train (or short drive), I'll be open to work hybrid.
