@@ -91,9 +91,9 @@ You can find a list of my current stack underneath. Feel free to ask more inform
 - Brainstorming and problem solving
 
 ## Languages
-_Dutch_: Native
-_English_: Fluently
-_French_: Not too good 😅
+- _Dutch_: Native
+- _English_: Fluently
+- _French_: Not too good 😅
 
 ## Work situation
 Preferable working fully remote at any time zone. If it's doable commuting from Bruges by train (or short drive), I'll be open to work hybrid.
