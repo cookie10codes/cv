@@ -88,6 +88,7 @@ You can find a list of my current stack underneath. Feel free to ask more inform
 - Frontend build systems (vite / webpack)
 - Sass / PostCSS / Tailwind
 - Translating designs from Adobe XD / Figma / Sketch to web
+- Brainstorming and problem solving
 
 ## Languages
 _Dutch_: Native
