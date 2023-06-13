@@ -49,9 +49,7 @@ Bits of Love is a fast-growing agency in Bruges that delivers data-driven produc
 - Craft CMS (version 3)
 - Setting up CMS architectures in Craft CMS
 
-### Freel
-
-ance Senior Craft CMS developer @ Percipio (August 2020 - ...)
+### Freelance Senior Craft CMS developer @ Percipio (August 2020 - ...)
 Percipio.london creates digital solutions, web applications, APIs, and toolkits focused on charities, organizations, and government departments worldwide. I've done a wide range of technical debt work for Percipio, starting from a simple marketing site in Vue.js / Nuxt.js to custom PHP solutions within Craft CMS for high-traffic sites.
 
 #### My tasks:
