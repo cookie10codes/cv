@@ -75,7 +75,7 @@ Percipio.london creates digital solutions, web applications, APIs and toolkits f
 - Writing data syncs in Feed Me
 
 ### Craft CMS plugin work
-I've collaborated onto various plugin and created a few. These can be downloaded from the Craft CMS plugin store. You can find a list of the plugins on https://plugins.craftcms.com/developer/percipio?craft4. 
+I've collaborated onto various plugins and created a few. These can be downloaded from the Craft CMS plugin store. You can find a list of the plugins on https://plugins.craftcms.com/developer/percipio?craft4. 
 
 ## Skills
 You can find a list of my current stack underneath. Feel free to ask more information.
