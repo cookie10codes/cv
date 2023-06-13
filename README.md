@@ -2,7 +2,7 @@
 
 *Freelance Craft CMS developer (front and backend)*
 
-[Email](stefanie@koeketienedesign.be) / [Github](https://github.com/cookie10codes) / [Twitter](https://twitter.com/cookie10codes)
+[Email](stefanie@koeketienedesign.be) / [Github](https://github.com/cookie10codes) / [Twitter](https://twitter.com/cookie10codes) / [Discord](@cookie10codes)
 
 ## Introducing myself
 Hi 👋🏼 , I’m Stefanie (a.k.a Stef), I’m a developer from Belgium with +10 years experience in development (front and back) focussing on Craft CMS. Creating new projects from scratch is my all-time favourite thing to do, job wise of course... I still have a life outside of work 😂. I'm tempted to add "Digital Fire Fighter" to my job role, as this is also part of being a developer, being able to fix issues and keeping the clients happy. As I person, I like to be organised and communication is one of my top priorities. I like to keep everything clean and clear, so stress levels are optimal. Humor is a part of my life, I find joy in my daily tasks and always in for a laugh, but if needed I can be serious and straight to the point.
@@ -97,3 +97,8 @@ You can find a list of my current stack underneath. Feel free to ask more inform
 
 ## Work situation
 Preferable working fully remote at any time zone. If it's doable commuting from Bruges by train (or short drive), I'll be open to work hybrid.
+
+I’m having a 3 days per week availability currenlty
+
+## That's all folks
+If you have any questions, need information or want to get in touch. Feel free to contact me onto the platforms listed on top.
