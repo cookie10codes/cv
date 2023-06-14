@@ -84,6 +84,7 @@ You can find a list of my current stack underneath. Feel free to ask for more in
 - Sass / PostCSS / Tailwind
 - Translating designs from Adobe XD / Figma / Sketch to web
 - Brainstorming and problem solving
+- Writing up a technical analysis for a project
 
 ## Languages
 - _Dutch_: Native
