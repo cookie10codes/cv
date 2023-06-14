@@ -86,6 +86,7 @@ You can find a list of my current stack underneath. Feel free to ask for more in
 - Brainstorming and problem solving
 - Write up a technical analysis for a project
 - Project management and milestone setup
+- A11Y (accessibility) knowledge
 
 ## Languages
 - _Dutch_: Native
