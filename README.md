@@ -79,7 +79,7 @@ I've collaborated on various plugins and created a few. These can be downloaded 
 ## Skills
 You can find a list of my current stack underneath. Feel free to ask for more information.
 
-- Craft CMS (twig / Yii2 / custom plugin and module work)
+- Craft CMS (CMS setup / Twig / Yii2 / custom plugin and module work)
 - Craft CMS plugin development (collaborated on some plugins in the store and created my own)
 - PHP / Yii2 / Laravel (babysteps)
 - GraphQL / RESTful API integrations (writing extensions on the existing GraphQL calls within Craft CMS as well)
