@@ -5,7 +5,7 @@
 [Email](stefanie@koeketienedesign.be) / [Github](https://github.com/cookie10codes) / [Twitter](https://twitter.com/cookie10codes) / [Discord](@cookie10codes)
 
 ## Introducing myself
-Hi 👋🏼, I’m Stefanie (a.k.a. Stef). I’m a developer from Belgium with over 10 years of experience in development (front and back) focusing on Craft CMS. Creating new projects from scratch is my all-time favourite thing to do, job-wise of course... I still have a life outside of work 😂. 
+Hi 👋🏼, I’m Stefanie (a.k.a. Stef). I’m a developer from Belgium with over 10 years of experience in development (front and back) focusing on Craft CMS. Creating new projects from scratch is my all-time favourite thing to do, job-wise of course 😉... 
 
 I'm tempted to add "Digital Fire Fighter" to my job role, as this is also part of being a developer—being able to fix issues and keep the clients happy. As a person, I like to be organised, and communication is one of my top priorities. I like to keep everything clean and clear, so stress levels are optimal. Humour is a part of my life; I find joy in my daily tasks and I'm always up for a laugh. But if needed, I can be serious and straight to the point.
 
