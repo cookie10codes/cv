@@ -103,4 +103,6 @@ Preferably working fully remote at any time zone. If it's doable commuting from 
 I'm currently available for 3 days per week.
 
 ## That's all, folks!
-If you have any questions, need information, or want to get in touch, feel free to contact me on the platforms listed above.
+If you have any questions, need information, or want to get in touch, feel free to contact me on the platforms listed below.
+
+[Email](stefanie@koeketienedesign.be) / [Github](https://github.com/cookie10codes) / [Twitter](https://twitter.com/cookie10codes) / [Discord](@cookie10codes)
