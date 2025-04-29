@@ -1,6 +1,6 @@
 # Stefanie Gevaert
 
-*Freelance Craft CMS developer (front and backend)*
+*Front-end developer with full-stack mindset (focussed on Craft CMS)*
 
 [Email](stefanie@koeketienedesign.be) / [Github](https://github.com/cookie10codes) / [Twitter](https://twitter.com/cookie10codes) / [Discord](@cookie10codes)
 
@@ -73,6 +73,21 @@ Percipio.london creates digital solutions, web applications, APIs, and toolkits 
 - Templating in Twig
 - Writing data syncs in Feed Me
 
+### Digital Product Developer @ Pàu Studio (September 2023 - ...)
+Pàu is a strategic design and consultancy agency specializing in urban development, spatial planning, and public policy. They work with governments, organizations, and communities to shape sustainable, inclusive, and future-oriented spaces. Their projects often bridge the gap between policy and design, integrating research, stakeholder engagement, and creative spatial thinking. Pàu Studio is part of it as it's own boite to create digital products.
+
+#### My tasks:
+- Write custom plugins and modules within Craft CMS to fulfill client needs
+- Write lightning-fast searches with Typesense
+- Creating large websites for quoted companies
+- Created an eco-system of a starter
+- Working in a scrum environment / sprints
+- Setting up sprints and follow-up for the team
+- Creating technical analysis
+- Setting up CMS architectures in Craft CMS
+- Templating in Twig
+- Project management (estimating work / help out with planning / setup sprints)
+
 ### Craft CMS plugin work
 I've collaborated on various plugins and created a few. These can be downloaded from the Craft CMS plugin store. You can find a list of the plugins on [https://plugins.craftcms.com/developer/percipio?craft4](https://plugins.craftcms.com/developer/percipio?craft4).
 
@@ -83,9 +98,14 @@ You can find a list of my current stack underneath. Feel free to ask for more in
 - Craft CMS plugin development (collaborated on some plugins in the store and created my own)
 - PHP / Yii2 / Laravel (babysteps)
 - GraphQL / RESTful API integrations (writing extensions on the existing GraphQL calls within Craft CMS as well)
-- Vue (with basic knowledge of Nuxt) / React (it has been a while, but I’m sure I can pick up quickly) / ES6 / Typescript / Storybook / Lottie
-- Frontend build systems (Vite / webpack)
+- Vue (with basic knowledge of Nuxt) / React (it has been a while, but I’m sure I can pick up quickly) / ES6 / Typescript / Alpine.js
+- Twig / HTML / Storybook
 - Sass / PostCSS / Tailwind
+- Lottie / GSAP / CSS3 animations
+- Frontend build systems (Vite / Webpack)
+- Github / Bitbucket
+- Linear / Notion
+  
 - Translating designs from Adobe XD / Figma / Sketch to web
 - Brainstorming and problem solving
 - Write up a technical analysis for a project
