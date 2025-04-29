@@ -137,9 +137,7 @@ You can find a list of my current stack underneath. Feel free to ask for more in
 - _French_: Not too good 😅
 
 ## Work situation
-Preferably working fully remote at any time zone. If it's doable commuting from Bruges by train (or short drive), I'll be open to working hybrid.
-
-I'm currently available for 3 days per week.
+I'm available for remote work as hybrid. Commuting from Bruges/Torhout/Lichtervelde by train (or short drive would be perfect).
 
 ## That's all, folks!
 If you have any questions, need information, or want to get in touch, feel free to contact me on the platforms listed below.
