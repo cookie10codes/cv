@@ -94,23 +94,42 @@ I've collaborated on various plugins and created a few. These can be downloaded 
 ## Skills
 You can find a list of my current stack underneath. Feel free to ask for more information.
 
+### Level 4 (This is my comfort zone)
 - Craft CMS (CMS setup / Twig / Yii2 / custom plugin and module work)
 - Craft CMS plugin development (collaborated on some plugins in the store and created my own)
-- PHP / Yii2 / Laravel (babysteps)
-- GraphQL / RESTful API integrations (writing extensions on the existing GraphQL calls within Craft CMS as well)
-- Vue (with basic knowledge of Nuxt) / React (it has been a while, but I’m sure I can pick up quickly) / ES6 / Typescript / Alpine.js
-- Twig / HTML / Storybook
+- PHP / Yii2
+- Vue.js (with basic knowledge of Nuxt)
+- Twig / HTML / Storybook (Translating designs from Adobe XD / Figma / Sketch to web)
 - Sass / PostCSS / Tailwind
-- Lottie / GSAP / CSS3 animations
-- Frontend build systems (Vite / Webpack)
-- Github / Bitbucket
-- Linear / Notion
   
-- Translating designs from Adobe XD / Figma / Sketch to web
-- Brainstorming and problem solving
+### Level 3 (I know my stuff)
+- ES6
+- Typescript
+- Alpine.js
+- GSAP
+- Vite
+- Github (with basic understanding of Github Actions)
+- Linear
+- A11Y (accessibility) knowledge
 - Write up a technical analysis for a project
 - Project management and milestone setup
-- A11Y (accessibility) knowledge
+- Brainstorming and problem solving
+- Notion
+
+### Level 2 (I took active actions / do changes, but I still need guidance)
+- Laravel
+- GraphQL / RESTful API integrations (writing extensions on the existing GraphQL calls within Craft CMS as well)
+- React (it has been a while, but I’m sure I can pick up quickly)
+- Webpack
+- Jira
+- GraphQL / RESTful API integrations (writing extensions on the existing GraphQL calls within Craft CMS as well)
+- Web Vitals
+- DDEV (Docker)
+
+### Level 1 (I know what it does)
+- Buddy.works
+- AWS (S3 / Lambda / Cloudfront / ...)
+- CloudFlare
 
 ## Languages
 - _Dutch_: Native
