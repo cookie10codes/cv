@@ -89,7 +89,7 @@ Pàu is a strategic design and consultancy agency specializing in urban developm
 - Project management (estimating work / help out with planning / setup sprints)
 
 ### Craft CMS plugin work
-I've collaborated on various plugins and created a few. These can be downloaded from the Craft CMS plugin store. You can find a list of the plugins on [https://plugins.craftcms.com/developer/percipio?craft4](https://plugins.craftcms.com/developer/percipio?craft4).
+I've collaborated on various plugins and created a few. These can be downloaded from the Craft CMS plugin store. You can find a list of the plugins on [Craft 4]([https://plugins.craftcms.com/developer/percipio?craft4](https://plugins.craftcms.com/search?q=craftpulse&craft4)) and [Craft 5]([https://plugins.craftcms.com/developer/percipio?craft5](https://plugins.craftcms.com/search?q=craftpulse&craft4)).
 
 ## Skills
 You can find a list of my current stack underneath. Feel free to ask for more information.
