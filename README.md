@@ -118,6 +118,7 @@ You can find a list of my current stack underneath. Feel free to ask for more in
 
 ### Level 2 (I took active actions / do changes, but I still need guidance)
 - Laravel
+- Node.js
 - GraphQL / RESTful API integrations (writing extensions on the existing GraphQL calls within Craft CMS as well)
 - React (it has been a while, but I’m sure I can pick up quickly)
 - Webpack
